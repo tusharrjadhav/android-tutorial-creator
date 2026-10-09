@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Tutorial Creator"
+  short_description: "Create Kotlin and Compose tutorials for GitHub"
+  default_prompt: "Use $android-tutorial-creator to create a focused Android tutorial with a sample, exercises, and GitHub-ready documentation."
